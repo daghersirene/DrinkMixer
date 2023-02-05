@@ -55,14 +55,15 @@ so that I will be inspired to discover new drinks and try new recipes.
    * The user selects filtering options, such as liquor type or skill level.
    * The user clicks on the desired recipe.
    * The user can view detailed information and instructions for each recipe.
+   * If the user does not like any of the recipes, they can generate a new list to find ones they like.
 
-**Use Case 4: Saving recipe**
+**Use Case 4: Saving recipes**
 **Basic Flow:** 
    * A user visits the DrinkMixer app and logs in with their username and password.
    * The user selects the option to browse recipes.
-   * The user selects filtering options, such as liquor type or skill level.
-   * The user clicks on the desired recipe.
-   * The user can view detailed information and instructions for each recipe.
+   * The user selects filtering options, such as liquor type or skill level, to narrow down the selection.
+   * The user clicks on the desired recipe to view additional information.
+   * The user selects to save the recipe to their favorites to access later.
 
 **Use Case 5: Saving recipe**
 **Basic Flow:** 
