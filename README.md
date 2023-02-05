@@ -31,7 +31,6 @@ so that I will be inspired to discover new drinks and try new recipes.
 ## Use-Cases
 
 **Use Case 1: Viewing saved recipes**
-
 **Basic Flow:** 
    * A user visits the DrinkMixer app with the intention of finding a drink recipe they have enjoyed previously.
    * The user logs in with their username and password.
@@ -39,8 +38,38 @@ so that I will be inspired to discover new drinks and try new recipes.
    * The user browses a list of recipes that have saved in the past.
    * The user uses filters to narrow the number of items in the list if the list is excessively long.          
 
+**Use Case 2: Selecting a recipe**
+**Basic Flow:** 
+   * A user visits the DrinkMixer app and logs in with their username and password.
+   * The user picks ingredients from a drop down.
+   * The user searches for recipes after selecting ingredients.
+   * A list of cocktails is generated based on the input criteria.
+   * The user uses filters to narrow the number of items in the list if it is excessively long.
+   * The user clicks on the desired cocktails.
+   * The user can view detailed information and instructionns for each recipe.
 
+**Use Case 3: Browsing recipe**
+**Basic Flow:** 
+   * A user visits the DrinkMixer app and logs in with their username and password.
+   * The user selects the option to browse recipes.
+   * The user selects filtering options, such as liquor type or skill level.
+   * The user clicks on the desired recipe.
+   * The user can view detailed information and instructions for each recipe.
 
+**Use Case 4: Saving recipe**
+**Basic Flow:** 
+   * A user visits the DrinkMixer app and logs in with their username and password.
+   * The user selects the option to browse recipes.
+   * The user selects filtering options, such as liquor type or skill level.
+   * The user clicks on the desired recipe.
+   * The user can view detailed information and instructions for each recipe.
 
+**Use Case 5: Saving recipe**
+**Basic Flow:** 
+   * A user visits the DrinkMixer app and logs in with their username and password.
+   * The user selects the option to browse recipes.
+   * The user selects filtering options, such as liquor type or skill level.
+   * The user clicks on the desired recipe.
+   * The user can view detailed information and instructions for each recipe.
 
 ## Use-Case Diagram
