@@ -5,7 +5,9 @@ Simple web app for generating and saving cocktail recipes
 DrinkMixer is a web application that helps users create drinks based on the ingredients they have on hand. Users select ingredients from a list and then the app generates a list of cocktail recipes that they can browse and save to their favorites. Each recipe includes measurements, ingredients, and serving size. 
 
 ## Draft: Wireframes
-
+ 
+ Wireframes: https://github.com/daghersirene/DrinkMixer/tree/main/images
+ 
 ## User Stories
 
 1. As a busy professional,
@@ -48,7 +50,7 @@ so that I will be inspired to discover new drinks and try new recipes.
    * The user clicks on the desired cocktails.
    * The user can view detailed information and instructionns for each recipe.
 
-**Use Case 3: Browsing recipe**
+**Use Case 3: Browsing recipes**
 **Basic Flow:** 
    * A user visits the DrinkMixer app and logs in with their username and password.
    * The user selects the option to browse recipes.
@@ -65,12 +67,13 @@ so that I will be inspired to discover new drinks and try new recipes.
    * The user clicks on the desired recipe to view additional information.
    * The user selects to save the recipe to their favorites to access later.
 
-**Use Case 5: Saving recipe**
+**Use Case 5: Finding recipes**
 **Basic Flow:** 
    * A user visits the DrinkMixer app and logs in with their username and password.
-   * The user selects the option to browse recipes.
-   * The user selects filtering options, such as liquor type or skill level.
-   * The user clicks on the desired recipe.
-   * The user can view detailed information and instructions for each recipe.
+   * The user selects the ingredients they have on hand.
+   * The user generates a list of cocktails, from which they can choose a recipe.
+   * The user chooses to narrow down the search by adding more ingredients.
+   * The user selects a few more ingredients and edits the previously selected ingredients.
+   * The user generates more cocktails.
 
 ## Use-Case Diagram
