@@ -76,4 +76,7 @@ so that I will be inspired to discover new drinks and try new recipes.
    * The user selects a few more ingredients and edits the previously selected ingredients.
    * The user generates more cocktails.
 
-## Use-Case Diagram
+## UML Use-Case Diagram
+
+<img src="https://user-images.githubusercontent.com/55363120/216876186-9eec20c6-d325-48f7-9738-c4f9ee172ed1.jpg" width="600px">
+
