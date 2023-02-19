@@ -80,3 +80,14 @@ so that I will be inspired to discover new drinks and try new recipes.
 
 <img src="https://user-images.githubusercontent.com/55363120/216876186-9eec20c6-d325-48f7-9738-c4f9ee172ed1.jpg" width="600px">
 
+
+## Requirements Table
+
+| ID | Requirement |
+| --- | ----------- |
+| 1 | The app will allow users search for cocktail recipes by ingredient and other criteria |
+| 2 | The app will allow users to save recipes to revisit at any time  |
+| 3 | The app will allow users to view detailed recipes and background information about different cocktails |
+| 4 | The app will allow users to filter recipes by category, name, and difficulty |
+| 5 | The app will allow users to create an account that is password protected |
+
