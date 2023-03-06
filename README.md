@@ -107,3 +107,4 @@ so that I will be inspired to discover new drinks and try new recipes.
 
 ## Updated UML
 
+<img src="https://user-images.githubusercontent.com/55363120/223013408-dde40a6b-3270-4a6e-9984-8acb0fd13898.jpg" width="600px">
