@@ -9,7 +9,7 @@ Simple web app for generating and saving cocktail recipes
 5. [UML](https://github.com/daghersirene/DrinkMixer#use-cases)
 6. [Requirements](https://github.com/daghersirene/DrinkMixer#requirements-table)
 7. [ERD](https://github.com/daghersirene/DrinkMixer/blob/main/README.md#erd)
-8. [Class UML]()
+8. [Class UML](https://github.com/daghersirene/DrinkMixer/blob/main/README.md#class-uml)
 
 ## Overview
 DrinkMixer is a web application that helps users create drinks based on the ingredients they have on hand. Users select ingredients from a list and then the app generates a list of cocktail recipes that they can browse and save to their favorites. Each recipe includes measurements, ingredients, and serving size. 
