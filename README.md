@@ -37,7 +37,7 @@ I want to find cocktail recipes using common pantry ingredients,
 so that I can prepare drinks quickly.
 
 5. As a drink enthusiast,
-I want to see a simple interfae with high quality images of drinks,
+I want to see a simple interface with high quality images of drinks,
 so that I will be inspired to discover new drinks and try new recipes.
 
 ## Use-Cases
