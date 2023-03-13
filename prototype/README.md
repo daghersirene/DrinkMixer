@@ -1,4 +1,4 @@
-## Pages
+## Functionality
 
 ### Homepage
 
@@ -22,4 +22,4 @@ The cocktail recipe page would display a photo of the cocktail, the name of the 
 
 The favorites page is where the user can see the collection of recipes that they have chosen to save in the past. They can also remove recipes from their favorites if they choose.
 
-<img src="https://user-images.githubusercontent.com/55363120/224605904-c6f801cf-6008-4c3d-8c59-c938f868048b.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/55363120/224605904-c6f801cf-6008-4c3d-8c59-c938f868048b.jpg" width="500px">
