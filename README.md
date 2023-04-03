@@ -111,3 +111,13 @@ so that I will be inspired to discover new drinks and try new recipes.
 <img src="https://user-images.githubusercontent.com/55363120/223013549-bd0807d2-44b0-4842-92ab-ea30ba2f67d8.png" width="600px">
 
 ## Data Access Layer
+
+**Data model/controller:**
+
+![image](https://user-images.githubusercontent.com/55363120/229396485-6fc9b636-0374-4660-bf36-60b0d4aa14e5.png)
+
+**Data from get request:**
+
+![image](https://user-images.githubusercontent.com/55363120/229396543-360d9711-c238-49dd-97e4-f1dc6f39501b.png)
+
+
